@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+data/expenses.json
+data/expenses.json.tmp
+data/expenses.json.damaged_*.bak
+
+exports/*
